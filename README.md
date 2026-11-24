@@ -9,7 +9,7 @@
 
   <p>
     <a href="https://github.com/nober47747474/Blu-arhive-client-mod/releases/latest">
-      <img src="https://img.shields.io/badge/СКАЧАТЬ-SCHALE%201.0.0-258fe8?style=for-the-badge" alt="Скачать SCHALE">
+      <img src="https://img.shields.io/badge/СКАЧАТЬ-SCHALE%201.1.0-258fe8?style=for-the-badge" alt="Скачать SCHALE">
     </a>
     <a href="#установка">
       <img src="https://img.shields.io/badge/ИНСТРУКЦИЯ-Установка-58a6ff?style=for-the-badge" alt="Инструкция по установке">
@@ -95,14 +95,18 @@
 | Параметр | Значение |
 |---|---|
 | Файл | `SCHALE-Setup.exe` |
-| Размер | **1 018 410 592 байта** |
-| SHA-256 | `0e49617ad69b0ef677af4fedad476fc0f9def315de30b7609141e660fa66d8bf` |
+| Размер | **1 019 029 590 байт** |
+| SHA-256 | `0fccf2c7462c640251d8484e135d03f7379a0eeabb483b5f06ac0d5764f99318` |
 
 Проверка хэша в PowerShell:
 
 ```powershell
 Get-FileHash .\SCHALE-Setup.exe -Algorithm SHA256
 ```
+
+## История изменений
+
+Актуальная версия и все предыдущие изменения перечислены в [CHANGELOG.md](CHANGELOG.md) и на странице [Releases](https://github.com/nober47747474/Blu-arhive-client-mod/releases).
 
 ## Правовая информация
 
