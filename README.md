@@ -8,7 +8,7 @@
   Русская локализация и управление игровым сервером из одного приложения.
 
   <p>
-    <a href="https://github.com/nober47747474/Blu-arhive-client-mod/releases/latest">
+    <a href="https://github.com/nober47747474/SCHALE-Blue-Archive-Offline-Launcher/releases/latest">
       <img src="https://img.shields.io/badge/СКАЧАТЬ-SCHALE%201.1.0-258fe8?style=for-the-badge" alt="Скачать SCHALE">
     </a>
     <a href="#установка">
@@ -46,13 +46,13 @@
 | **Регион запуска** | Steam, Google Play, App Store, One Store и Galaxy Store |
 | **Наборы** | Recruitment Tickets, повторы персонажей, Recruitment Mileage и Recruit Stack |
 | **Игровой процесс** | Локальная кампания, сохранение прогресса и журналы диагностики |
-| **Русский язык** | Частичный перевод интерфейса, сюжета и диалогов MomoTalk |
+| **Русский язык** | Перевод интерфейса, части сюжета и всех осмысленных диалогов MomoTalk |
 
-Проект продолжает развиваться. Полная совместимость всех режимов и полный перевод пока не гарантируются.
+Проект продолжает развиваться. Полная совместимость всех режимов и перевод всего остального игрового текста пока не гарантируются.
 
 ## Русская локализация
 
-Перевод выполняется вручную, с сохранением характера персонажей и связности диалогов. Уже переведены полные MomoTalk-ветки для Азусы в двух версиях, Маки, Судзуми, Хасуми, Хины и Юуки.
+Перевод выполняется вручную, с сохранением характера персонажей и связности диалогов. Переведены **13 581 из 13 634** уникальных текстов MomoTalk; оставшиеся 53 — многоточия, числа, смайлы и повреждённые символы. Также доступны переводы интерфейса и отдельных сюжетных эпизодов.
 
 <div align="center">
   <img src="docs/assets/momotalk-ru.png" alt="Русская локализация MomoTalk" width="900">
@@ -66,7 +66,7 @@
 
 ### 2. Скачайте установщик
 
-Скачайте **`SCHALE-Setup.exe`** из [последнего релиза](https://github.com/nober47747474/Blu-arhive-client-mod/releases/latest) или воспользуйтесь [прямой ссылкой](https://github.com/nober47747474/Blu-arhive-client-mod/releases/latest/download/SCHALE-Setup.exe).
+Скачайте **`SCHALE-Setup.exe`** из [последнего релиза](https://github.com/nober47747474/SCHALE-Blue-Archive-Offline-Launcher/releases/latest) или воспользуйтесь [прямой ссылкой](https://github.com/nober47747474/SCHALE-Blue-Archive-Offline-Launcher/releases/latest/download/SCHALE-Setup.exe).
 
 ### 3. Установите SCHALE
 
@@ -106,7 +106,7 @@ Get-FileHash .\SCHALE-Setup.exe -Algorithm SHA256
 
 ## История изменений
 
-Актуальная версия и все предыдущие изменения перечислены в [CHANGELOG.md](CHANGELOG.md) и на странице [Releases](https://github.com/nober47747474/Blu-arhive-client-mod/releases).
+Актуальная версия и все предыдущие изменения перечислены в [CHANGELOG.md](CHANGELOG.md) и на странице [Releases](https://github.com/nober47747474/SCHALE-Blue-Archive-Offline-Launcher/releases).
 
 ## Правовая информация
 

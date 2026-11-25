@@ -15,7 +15,7 @@
 
 Проверка: **28/28 целевых тестов** и реальный вход в главное меню.
 
-Полная история: [CHANGELOG.md](https://github.com/nober47747474/Blu-arhive-client-mod/blob/main/CHANGELOG.md).
+Полная история: [CHANGELOG.md](https://github.com/nober47747474/SCHALE-Blue-Archive-Offline-Launcher/blob/main/CHANGELOG.md).
 
 ### Установка
 
@@ -34,4 +34,4 @@
 - Размер: **1 019 029 590 байт**.
 - SHA-256: `0fccf2c7462c640251d8484e135d03f7379a0eeabb483b5f06ac0d5764f99318`.
 
-Подробности и инструкция находятся в [README](https://github.com/nober47747474/Blu-arhive-client-mod#readme).
+Подробности и инструкция находятся в [README](https://github.com/nober47747474/SCHALE-Blue-Archive-Offline-Launcher#readme).
